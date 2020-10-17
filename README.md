@@ -1,0 +1,2 @@
+# AWSArchitectures
+AWS Architectures diagram
